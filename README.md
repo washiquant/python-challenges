@@ -1,6 +1,7 @@
 # 🚀 Python Challenges
 
 Este é o meu laboratório de lógica e algoritmos em Python. Aqui documento minha evolução diária, focando na resolução de problemas, eficiência de código e aplicação de boas práticas de programação.
+Além dos desafios de lógica, também estou documentando meus estudos do livro Pense em Python em um repositório dedicado: Pense-em-Python
 
 ## 📚 Estrutura do Repositório
 O repositório está organizado por plataformas de ensino:
